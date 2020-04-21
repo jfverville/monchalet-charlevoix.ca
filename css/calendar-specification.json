@@ -1,6 +1,6 @@
 {
     "url": "https://www.monsieurchalets.com/fullcalendar/53630e4c-33bb-4a42-b138-b67e60b0a504.ics",
     "language": "fr",
-    "css": ".dhx_cal_data table .dhx_cal_event_line, .dhx_cal_event_line {\n  color: #0288d1;\n}\n.day_tab, .month_tab, .week_tab{\n  display:none;\n}\n.dhx_cal_today_button{\n  font-size:10px;\n}\n.dhtmlXTooltip, .dhx_cal_quick_info{\n  display:none;\n}\n",
+    "css": ".dhx_cal_data table .dhx_cal_event_line, .dhx_cal_event_line {\n  color: #0288d1;\n}\n.day_tab, .month_tab, .week_tab{\n  display:none;\n}\n.dhx_cal_today_button{\n  font-size:10px;\n}\n.dhtmlXTooltip, .dhx_cal_quick_info{\n  display:none;\n}\n.dhx_cal_date{\n  text-align: left; padding: 1px 10px;\n}\n",
     "loader": ""
 }
